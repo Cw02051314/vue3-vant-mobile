@@ -80,9 +80,9 @@ const onClickLeft = () => history.back()
         <Chart :option="refLineOption" :style="{ height: '330px' }" />
       </div>
 
-      <div class="chart item">
+      <!-- <div class="chart item">
         <Chart :option="refScoreOption" :style="{ height: '330px' }" />
-      </div>
+      </div> -->
     </Container>
   </div>
 </template>
