@@ -38,6 +38,7 @@ function toggle() {
     <VanCell title="🎨 Unocss 示例" to="unocss" is-link />
     <VanCell title="🍍 持久化 Pinia 状态" to="counter" is-link />
     <VanCell title="🙅 404 演示" to="unknown" is-link />
+    <VanCell title="🐻 测试" to="cs" is-link />
 
     <VanCell center>
       <template #title>
